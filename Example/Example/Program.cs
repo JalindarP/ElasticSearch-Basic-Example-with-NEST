@@ -23,24 +23,10 @@ namespace Example
             EsConfig = new ConnectionSettings(EsNode);
             EsClient = new ElasticClient(EsConfig);
 
-            //var settings = new IndexSettings { NumberOfReplicas = 1, NumberOfShards = 1 };
+            //CreateIndex();
+            //InsertData();
 
-            //var indexConfig = new IndexState
-            //{
-            //    Settings = settings
-            //};
-
-            //if (!EsClient.IndexExists("QuotationLine").Exists)
-            //{
-            //    EsClient.CreateIndex("QuotationLine", c => c
-            //    .InitializeUsing(indexConfig)
-            //     .Mappings(m => m.Map<QuotationLine>(mp => mp.AutoMap())));
-            //}
-
-            CreateIndex();
-            InsertData();
-
-            Console.ReadLine();            
+            Console.ReadLine();
         }
 
         static void CreateIndex()
@@ -51,6 +37,8 @@ namespace Example
             {
                 Settings = settings
             };
+
+           
 
             if (!EsClient.IndexExists("QuotationLine").Exists)
             {
@@ -78,6 +66,14 @@ namespace Example
                     );
             }
 
+        }
+
+        static void DeleteIndex()
+        {
+            // Delete Index
+            //EsClient.DeleteIndex(new DeleteIndexRequest("books"));
+
+            //var indexes = EsClient.GetIndexAsync(null, ac => ac.AllIndices());
         }
     }
 }

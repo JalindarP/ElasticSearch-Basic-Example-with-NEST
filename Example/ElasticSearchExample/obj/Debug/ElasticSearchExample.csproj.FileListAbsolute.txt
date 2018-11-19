@@ -1,0 +1,9 @@
+D:\ElasticSearch\ElasticSearch-Basic-Example-with-NEST\Example\ElasticSearchExample\bin\Debug\ElasticSearchExample.dll
+D:\ElasticSearch\ElasticSearch-Basic-Example-with-NEST\Example\ElasticSearchExample\bin\Debug\ElasticSearchExample.pdb
+D:\ElasticSearch\ElasticSearch-Basic-Example-with-NEST\Example\ElasticSearchExample\bin\Debug\Elasticsearch.Net.dll
+D:\ElasticSearch\ElasticSearch-Basic-Example-with-NEST\Example\ElasticSearchExample\bin\Debug\Nest.dll
+D:\ElasticSearch\ElasticSearch-Basic-Example-with-NEST\Example\ElasticSearchExample\bin\Debug\Elasticsearch.Net.xml
+D:\ElasticSearch\ElasticSearch-Basic-Example-with-NEST\Example\ElasticSearchExample\bin\Debug\Nest.xml
+D:\ElasticSearch\ElasticSearch-Basic-Example-with-NEST\Example\ElasticSearchExample\obj\Debug\ElasticSearchExample.dll
+D:\ElasticSearch\ElasticSearch-Basic-Example-with-NEST\Example\ElasticSearchExample\obj\Debug\ElasticSearchExample.pdb
+D:\ElasticSearch\ElasticSearch-Basic-Example-with-NEST\Example\ElasticSearchExample\obj\Debug\ElasticSearchExample.csprojResolveAssemblyReference.cache
