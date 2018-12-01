@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSearchExample", "Ela
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example2", "Example2\Example2.csproj", "{6E3BFD59-9133-4E29-8C10-55A48B02E1FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogueCount", "CatalogueCount\CatalogueCount.csproj", "{ABA586AB-6BB5-4662-8DBE-3CCFBFD39A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6E3BFD59-9133-4E29-8C10-55A48B02E1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E3BFD59-9133-4E29-8C10-55A48B02E1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E3BFD59-9133-4E29-8C10-55A48B02E1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA586AB-6BB5-4662-8DBE-3CCFBFD39A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA586AB-6BB5-4662-8DBE-3CCFBFD39A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA586AB-6BB5-4662-8DBE-3CCFBFD39A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA586AB-6BB5-4662-8DBE-3CCFBFD39A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
