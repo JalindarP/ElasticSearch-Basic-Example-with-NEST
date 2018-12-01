@@ -45,3 +45,8 @@ Example/Example2/bin/Debug/Example2.pdb
 Example/Example2/bin/Debug/Example2.exe
 Example/ElasticSearchExample/obj/Debug/ElasticSearchExample.csproj.FileListAbsolute.txt
 Example/ElasticSearchExample/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Example/CatalogueCount/bin/Debug/Nest.xml
+Example/CatalogueCount/bin/Debug/Elasticsearch.Net.xml
+Example/CatalogueCount/bin/Debug/CatalogueCount.vshost.exe.manifest
+Example/CatalogueCount/bin/Debug/CatalogueCount.vshost.exe.config
+Example/CatalogueCount/bin/Debug/CatalogueCount.exe.config
